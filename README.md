@@ -1,11 +1,11 @@
-### Hello there 👽
+# Hello there 👽
 
 *Welcome to the lottiezone* 
 
 `frontend mobile dev` by trade, `chaos nonsense dev` by choice. 
 Most of my stuff is private 🔫 but I might put up some public stuff from time to time. 
 
-# Current Projects:
+### Current Projects:
 - 💻 local server PC for streaming movies/shows and also linux projects :} 
 - 🙇‍♀️ CSE hyperbolic time chamber
 - 🪄 Some ML nonsense. I've been torturing LLMs for the past couple of weeks. 
