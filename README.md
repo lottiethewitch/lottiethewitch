@@ -12,7 +12,12 @@ Most of my stuff is private 🔫 but I might put up some public stuff from time 
 
 **AI is a death cult. Use your hippocampus! You only get one ✨**
 
-
+### Stuff I like: 
+- 💮 Spring (both the season and the framework)
+- 🤖 Android (but mostly Kotlin)
+- 🐍 Weird python projects
+- 🖥️ Machine learning
+- 🔌 Electronics (I'm an EE) 
 <!--
 **lottiethewitch/lottiethewitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
