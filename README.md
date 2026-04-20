@@ -1,15 +1,26 @@
 # Hello there 👽
+I love computers. That's all.
 
-*Welcome to the lottiezone* 
+Former disgruntled frontend mobile dev. Current jack of all trades anything dev
 
-`frontend mobile dev` by trade, `chaos nonsense dev` by choice. 
-Most of my stuff is private 🔫 but I might put up some public stuff from time to time. 
+## Enjoys
+- Linux
+- Nix
+- Nix AND Linux
+- Kotlin
+- Weird projects
+- Archiving
+- Weird art
 
-### Current Projects:
-- 💻 local server PC for streaming movies/shows and also linux projects :} 
+## Current Projects:
+- 💻 local Proxmox server for streaming movies/shows and also backend projects :} 
 - 🙇‍♀️ CSE hyperbolic time chamber
 - 🪄 Some ML nonsense. I've been torturing LLMs for the past couple of weeks. 
+- 💻 Some Full Stack stuff! For practice!
+- ❄️ Nix Configs for both of my Nix machines. 
 
+This makes me basically unemployable in the big '26. AI has its uses. Using it for everything under the sun is NOT the vibe.
+[Just one of MANY reasons to not rely on it](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 **Use your brain! You only get one ✨**
 <!--
 **lottiethewitch/lottiethewitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
