@@ -19,8 +19,6 @@ Former disgruntled frontend mobile dev. Current jack of all trades anything dev
 - 💻 Some Full Stack stuff! For practice!
 - ❄️ Nix Configs for both of my Nix machines. 
 
-This makes me basically unemployable in the big '26. AI has its uses. Using it for everything under the sun is NOT the vibe.
-[Just one of MANY reasons to not rely on it](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
 **Use your brain! You only get one ✨**
 <!--
 **lottiethewitch/lottiethewitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
