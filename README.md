@@ -12,6 +12,12 @@ Former disgruntled frontend mobile dev. Current jack of all trades anything dev
 - Archiving
 - Weird art
 
+Current tech stack: 
+Neovim Stan. 
+LLM running on a 3090 that gives me garbage answers. 
+jetbrains products bc Android 
+like three computers and a steamdeck 
+
 ## Current Projects:
 - 💻 local Proxmox server for streaming movies/shows and also backend projects :} 
 - 🙇‍♀️ CSE hyperbolic time chamber
