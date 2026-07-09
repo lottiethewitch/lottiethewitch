@@ -1,21 +1,23 @@
 # Hello there 👽
 I love computers. That's all.
 
-Former disgruntled frontend mobile dev. Current jack of all trades anything dev
+Former disgruntled frontend mobile dev. Current jack of all trades anything dev.
+Not-so-Funemployed lol.
 
 ## Enjoys
 - Linux
 - Nix
-- Nix AND Linux
+- Nix AND Linux (NixOS)
 - Kotlin
 - Weird projects
 - Archiving
-- Weird art
+- Weird art (Made by humans)
+- Hyperpop
 
 Current tech stack: 
 - Neovim Stan. My current configs are in my NixOS Home Manager files.
 - Obsidian and (soon) emacs for documentation.
-- Gen1 Thinkpad (Anakin) + Desktop (Vader).
+- NIXOS == Gen1 Thinkpad (Anakin) + Desktop (Vader).
 - LLM: Whatever I can run on my graphics card lol you think i'd willingly pay for stackoverflow copy+paste 
 - jetbrains products bc Android.
 - Proxmox Server for Postgres w/ flask backends.
