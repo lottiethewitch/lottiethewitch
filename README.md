@@ -13,17 +13,23 @@ Former disgruntled frontend mobile dev. Current jack of all trades anything dev
 - Weird art
 
 Current tech stack: 
-- Neovim Stan. 
-- LLM running on a 3090 that gives me garbage answers. 
-- jetbrains products bc Android. 
+- Neovim Stan. My current configs are in my NixOS Home Manager files.
+- Obsidian and (soon) emacs for documentation.
+- Gen1 Thinkpad (Anakin) + Desktop (Vader).
+- LLM: Whatever I can run on my graphics card lol you think i'd willingly pay for stackoverflow copy+paste 
+- jetbrains products bc Android.
+- Proxmox Server for Postgres w/ flask backends.
+- Languages: Some C++, Python, Nix. I want to learn Rust after. 
 - like three computers and a steamdeck 
 
 ## Current Projects:
 - 💻 local Proxmox server for streaming movies/shows and also backend projects :} 
 - 🙇‍♀️ CSE hyperbolic time chamber
-- 🪄 Some ML nonsense. I've been torturing LLMs for the past couple of weeks. 
+- 🪄 LLM Cybersec stuff. Its so funny what you can get these things to do.  
 - 💻 Some Full Stack stuff! For practice!
-- ❄️ Nix Configs for both of my Nix machines. 
+- ❄️ Nix Configs for both of my Nix machines.
+- 🖥️ Hyprland configurations
+- 🐍 Python scripts for little automations
 
 **Use your brain! You only get one ✨**
 <!--
