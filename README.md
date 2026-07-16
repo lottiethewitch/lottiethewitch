@@ -1,8 +1,6 @@
 # Hello there 👽
 I love computers. That's all.
-
-Former disgruntled frontend mobile dev. Current jack of all trades anything dev.
-Not-so-Funemployed lol.
+Current jack of all trades anything dev.
 
 ## Enjoys
 - Linux
