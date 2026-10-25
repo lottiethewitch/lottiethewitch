@@ -2,14 +2,11 @@
 I love computers. That's all.
 Current jack of all trades anything dev.
 
-## Enjoys
-- Linux
-- Nix
-- Nix AND Linux (NixOS)
-- Kotlin
+## what i like
+- linux (NixOS)
 - Weird projects
 - Archiving
-- Weird art (Made by humans)
+- Weird art (made by humans)
 - Hyperpop
 
 Current tech stack: 
