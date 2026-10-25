@@ -9,24 +9,18 @@ Current jack of all trades anything dev.
 - Weird art (made by humans)
 - Hyperpop
 
-Current tech stack: 
-- Neovim Stan. My current configs are in my NixOS Home Manager files.
-- Obsidian and (soon) emacs for documentation.
-- NIXOS == Gen1 Thinkpad (Anakin) + Desktop (Vader).
-- LLM: Whatever I can run on my graphics card lol you think i'd willingly pay for stackoverflow copy+paste 
-- jetbrains products bc Android.
-- Proxmox Server for Postgres w/ flask backends.
-- Languages: Some C++, Python, Nix. I want to learn Rust after. 
-- like three computers and a steamdeck 
+## Current stuff i use: 
+- EDITOR: Neovim w/ Nixvim implementation. vscode whenever im too tired to deal w neovim
+- NOTES: Obsidian
+- NIXOS MACHINES: Gen1 Thinkpad (mettaton) + Desktop (neo) + M1 Macbook Pro (spamton).
+- LLM: Whatever I can run on my graphics card lol you think i'd willingly pay for stackoverflow copy+paste; also google overview sometimes because im lazy 
+- SERVER: proxmox server so i can watch my stories.
+- LANGUAGES: C, Python, Nix. Sometimes java and kotlin. Learning: lua, c 
 
 ## Current Projects:
-- 💻 local Proxmox server for streaming movies/shows and also backend projects :} 
-- 🙇‍♀️ CSE hyperbolic time chamber
-- 🪄 LLM Cybersec stuff. Its so funny what you can get these things to do.  
-- 💻 Some Full Stack stuff! For practice!
-- ❄️ Nix Configs for both of my Nix machines.
-- 🖥️ Hyprland configurations
-- 🐍 Python scripts for little automations
+- proxmox, always. 
+- ricing my desktop, always.
+- asahi nixos conversion for my macbook thats getting slow thank u apple
 
 **Use your brain! You only get one ✨**
 <!--
