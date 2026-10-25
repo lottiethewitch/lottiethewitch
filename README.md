@@ -1,13 +1,13 @@
 # Hello there 👽
 I love computers. That's all.
-Current jack of all trades anything dev.
+Former android dev. fledgling embedded eng. 
 
 ## what i like
 - linux (NixOS)
-- Weird projects
-- Archiving
-- Weird art (made by humans)
-- Hyperpop
+- weird projects
+- archiving
+- weird art (made by humans)
+- hyperpop
 
 ## Current stuff i use: 
 - EDITOR: Neovim w/ Nixvim implementation. vscode whenever im too tired to deal w neovim
